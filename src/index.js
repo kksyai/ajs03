@@ -8,3 +8,6 @@ function info() {
   export default {
     info
   };
+
+  const ajs = require('@kksyai/ajs03');
+  console.log(ajs.info());

@@ -1,3 +1,6 @@
+// const ajs = require('@kksyai/ajs03');
+// console.log(ajs.info());
+
 function info() {
     const m = new Map();
     m.set('name', 'ajs03');
@@ -9,5 +12,4 @@ function info() {
     info
   };
 
-  const ajs = require('@kksyai/ajs03');
-  console.log(ajs.info());
+ 
